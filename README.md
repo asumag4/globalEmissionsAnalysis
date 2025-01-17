@@ -9,9 +9,13 @@ Comprehensive study consisting of 6 datasets from 5 sources, studying the relati
 **Sources:**
 
 Emissions Data from <a href="https://climatetrace.org/data#:~:text=Climate%20TRACE%20emissions%20data%20are,information%20on%20our%20beta%20API">climatetrace.org</a>
+
 Life Expectacny data from <a href="https://data.who.int/indicators/i/48D9B0C/C64284D">World Health Organization</a>
+
 GDP Data from <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">worldbank.org</a>
+
 Cancer Rates data from <a href="https://ghdx.healthdata.org/">Global Health Data Exchange</a>
+
 Monthly Temperature Anomalies from <a href="https://ourworldindata.org/grapher/monthly-temperature-anomalies">Our World in Data</a>
 
 ## Analysis and Conclusions 
