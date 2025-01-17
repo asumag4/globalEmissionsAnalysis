@@ -1,4 +1,5 @@
 <img src="https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2Fpci1wb2xsdXRpb24tMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==" alt="road-emissions" />
+
 # Global Road Emissions Analysis 
 
 Comprehensive study consisting of 6 datasets from 5 sources, studying the relationship of road emissions on global economy, life expectancy, cancers and temperature anomalies
